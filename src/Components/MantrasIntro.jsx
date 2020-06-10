@@ -15,10 +15,9 @@ const MantrasIntro = () => {
         className="intro_image"
       />
       <p className="intro_text">
-        Let's collect mantras with the intention of finding another new resident
-        very soon that is a good fit for our Center.
-        Let's make strong wishes and commit to collecting <b>111,111 Karmapa Chenno</b> mantras.
-        It is a nice way to keep our bonds and strength as a sangha during these times we are now living.
+        We’re collecting <b>1M</b> mantras of Karmapa Chenno for growth and 
+        development of Silicon Valley Buddhist Center and
+        for finding a nice permanent place for our meditations.
       </p>
     </div>
   )
