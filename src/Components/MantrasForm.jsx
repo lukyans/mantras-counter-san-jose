@@ -14,14 +14,6 @@ export default function MantrasForm(props) {
             value={inputData.mantras_count}
             onChange={handleChange}
           />
-          <input
-            type="text"
-            name="name"
-            placeholder="Name"
-            maxLength="16"
-            value={inputData.name}
-            onChange={handleChange}
-          />
           <button type="submit">+</button>
         </div>
       </form>

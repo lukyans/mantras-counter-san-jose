@@ -8,12 +8,14 @@
 }
 
 .table {
-  display: flex;
+  /* display: flex; */
   flex-direction: column;
   color: grey;
   width: 30%;
   margin-bottom: 15px;
-  flex-basis: 265px;
+  flex-basis: 140px;
+  border-right: 1px solid;
+  padding-right: 10px;
 }
 .row {
   display: flex;
